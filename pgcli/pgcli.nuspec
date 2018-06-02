@@ -6,10 +6,10 @@
     <packageSourceUrl>https://github.com/Bounder/chocolatey-packages</packageSourceUrl>
     <owners>Bounder</owners>
     <title>PGCLI</title>
-    <authors>Jan Wieck, Denis Lussies, Jim Mlodgenski, David Rader, Scott Mead</authors>
+    <authors>BigSQL (OpenSCG)</authors>
     <projectUrl>https://www.openscg.com/bigsql/package-manager/</projectUrl>
     <iconUrl>https://cdn.rawgit.com/Bounder/chocolatey-packages/b13984ee/pgcli/icon.png</iconUrl>
-    <copyright>Year Software Vendor</copyright>
+    <copyright>2018</copyright>
     <docsUrl>https://www.openscg.com/bigsql/docs/pgcli/pgcli/</docsUrl>
     <tags>pgcli postgres cli</tags>
     <summary>PGCLI is a PrettyGoodCommandLIne interface for component control and management. You can use it to install, manage and run postgres server instances</summary>
