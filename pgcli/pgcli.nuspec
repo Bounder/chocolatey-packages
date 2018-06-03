@@ -9,7 +9,7 @@
     <authors>BigSQL (OpenSCG)</authors>
     <projectUrl>https://www.openscg.com/bigsql/package-manager/</projectUrl>
     <iconUrl>https://cdn.rawgit.com/Bounder/chocolatey-packages/b13984ee/pgcli/icon.png</iconUrl>
-    <copyright>2018</copyright>
+    <copyright>2018 OpenSCG</copyright>
     <docsUrl>https://www.openscg.com/bigsql/docs/pgcli/pgcli/</docsUrl>
     <tags>pgcli postgres cli</tags>
     <summary>PGCLI is a PrettyGoodCommandLIne interface for component control and management. You can use it to install, manage and run postgres server instances</summary>
