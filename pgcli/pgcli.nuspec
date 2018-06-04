@@ -11,10 +11,11 @@
     <iconUrl>https://cdn.rawgit.com/Bounder/chocolatey-packages/b13984ee/pgcli/icon.png</iconUrl>
     <copyright>2018 OpenSCG</copyright>
     <docsUrl>https://www.openscg.com/bigsql/docs/pgcli/pgcli/</docsUrl>
-    <tags>pgcli postgres cli</tags>
-    <summary>PGCLI is a PrettyGoodCommandLIne interface for component control and management. You can use it to install, manage and run postgres server instances</summary>
-    <description>This CLI is used to install and maintain postgresql servers, i.e. to install postgresql server version 9.6 you type `pgc install pg96`.  
-For more information on the different commond options type `pgc help`. 
+    <tags>pgcli postgres cli postgresql database sql bigsql</tags>
+    <summary>PGCLI is a PrettyGoodCommandLIne interface for component control and management. You can use it to install, manage and run postgres server instances. Like chocolatey but for postgres.</summary>
+    <description>PGC is a package and update manager, similar to yum or apt-get, specifically for PostgreSQL and related community projects. PGC enables you to easily find and install packages, configure multiple versions of PostgreSQL, update existing applications, and control services (like Postgres or PostgreSQL Studio) by starting and stopping from the command line.  
+For example to install PostgreSQL server version 9.6 you type `pgc install pg96`.  
+For more information on the different command options type `pgc help` or visit the official documentation.
 </description>
   </metadata>
   <files>
